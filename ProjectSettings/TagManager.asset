@@ -6,6 +6,7 @@ TagManager:
   tags:
   - playerDoor
   - cell
+  - huochai
   layers:
   - Default
   - TransparentFX

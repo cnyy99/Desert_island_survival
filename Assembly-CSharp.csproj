@@ -55,6 +55,7 @@
   <ItemGroup>
      <Compile Include="Assets\Book Assets\Models\DoorManager.cs" />
      <Compile Include="Assets\Book Assets\Models\TriggerZone.cs" />
+     <Compile Include="Assets\C# Scripts\Huochai.cs" />
      <Compile Include="Assets\C# Scripts\Inventory.cs" />
      <Compile Include="Assets\C# Scripts\PowerCell.cs" />
      <Compile Include="Assets\C# Scripts\Quit.cs" />
